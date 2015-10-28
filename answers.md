@@ -20,3 +20,4 @@ A: I passed trainer_path current_trainer, which set the id to the id of the curr
 It's been challenging, but fun. The pace has been manageable; I just wish my other classes weren't so time consuming so I could do more with rails.
 
 # Extra credit: Link your Heroku deployed app
+https://powerful-plains-5862.herokuapp.com/
